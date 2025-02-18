@@ -14,7 +14,11 @@
 
 /calculator-project
 │── index.html       # Main HTML file
+
 │── calculator.css   # Stylesheet for UI
+
 │── calculator.js    # JavaScript for functionality
+
 │── README.md        # Project Documentation
+
 │── screenshot.png   # (Optional) Image of the UI
